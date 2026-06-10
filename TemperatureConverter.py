@@ -1,3 +1,5 @@
+# Exercise 8: Temperature Converter
+
 temp = float(input("Enter the temperature: "))
 unit = input("Is this temperature in Celsius or Fahrenheit (C/F): ")
 print("")
